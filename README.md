@@ -1,5 +1,5 @@
 # Power-Query
-All personal exploration related to Power Query will be uploaded in here.
+All personal exploration related to Power Query will be uploaded here.
 
 Project References:
-1. https://www.kaggle.com/datasets/tanshihjen/malaysia-resale-carlist/data
+1. Malaysia Resale Carlist Analysis (https://www.kaggle.com/datasets/tanshihjen/malaysia-resale-carlist/data)
